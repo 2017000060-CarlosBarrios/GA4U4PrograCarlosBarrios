@@ -1,0 +1,16 @@
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.Form1.resources
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.csproj.GenerateResource.cache
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.AssemblyInfoInputs.cache
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.AssemblyInfo.cs
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\bin\Debug\net10.0-windows\GA4PrograEje2.exe
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\bin\Debug\net10.0-windows\GA4PrograEje2.deps.json
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\bin\Debug\net10.0-windows\GA4PrograEje2.runtimeconfig.json
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\bin\Debug\net10.0-windows\GA4PrograEje2.dll
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\bin\Debug\net10.0-windows\GA4PrograEje2.pdb
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.dll
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\refint\GA4PrograEje2.dll
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.pdb
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\GA4PrograEje2.genruntimeconfig.cache
+C:\Users\Carlos Barrios\source\repos\GA4PrograEje2\GA4PrograEje2\obj\Debug\net10.0-windows\ref\GA4PrograEje2.dll
